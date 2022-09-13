@@ -1,0 +1,16 @@
+postgresql:
+  enabled: true
+  postgresUsername: postgres
+  postgresqlPassword: postgres
+redis:
+  enabled: true
+  usePassword: false
+result:
+  image:
+    tag: SA-390-gambit-or-mojo-7002c25
+vote:
+  image:
+    tag: SA-390-gambit-or-mojo-7002c25
+worker:
+  image:
+    tag: updating-cb26ce0
