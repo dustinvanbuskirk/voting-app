@@ -7,10 +7,13 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-390-gambit-or-mojo-7002c25
+    repository: docker.io/dustinvanbuskirk/result
+    tag: 99f5e1c
 vote:
   image:
-    tag: SA-390-gambit-or-mojo-7002c25
+    repository: docker.io/dustinvanbuskirk/vote
+    tag: 99f5e1c
 worker:
   image:
-    tag: updating-cb26ce0
+    repository: docker.io/dustinvanbuskirk/worker
+    tag: 99f5e1c
