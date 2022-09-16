@@ -16,4 +16,4 @@ vote:
 worker:
   image:
     repository: docker.io/dustinvanbuskirk/worker
-    tag: 99f5e1c
+    tag: f184cf9
