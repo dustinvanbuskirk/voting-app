@@ -12,7 +12,7 @@ result:
 vote:
   image:
     repository: docker.io/dustinvanbuskirk/vote
-    tag: 99f5e1c
+    tag: a9c5056
 worker:
   image:
     repository: docker.io/dustinvanbuskirk/worker
